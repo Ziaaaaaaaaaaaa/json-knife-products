@@ -1,0 +1,40 @@
+{
+    "stuff" : [
+    {   "id": 1, 
+        "make":" Krake Raken V2", 
+        "specs":"Blade material - AEB-L, Blade coating / finish - Satin, Handle - Aluminium, Bearing - Bushings, Weight: 126 g, Overall length: 260 mm, Blade length: 115 mm, Length folded: 145 mm, Blade thickness: 3.1 mm", 
+        "price": 4842 , 
+        "img":"https://i.postimg.cc/sfk1d0Jf/image1.jpg"
+    },
+    {   "id": 2, 
+        "make":"Benchmade 62 Butterfly Knife", 
+        "specs":"Overall Length: 9.20, Blade Length: 4.25, Blade Thickness: 0.13, Blade Material: D2, Hardness: 60-62 RC, Blade Style: Spear Point, Blade Grind: Flat, Finish: Satin.", 
+        "price": 8052, 
+        "img":"https://i.postimg.cc/nLPwS7f5/ac8fe6771fe9afef363e829dcf730377-knifes-cali.jpg"
+    },
+    {   "id": 3, 
+        "make":" Basilisk Balisong", 
+        "specs":"Overall Length: 10.00, Blade Length: 4.625, Cutting Edge: 4.25, Blade Thickness: 0.16, Blade Material: 154CM, Blade Style: Clip Point, Blade Grind: Flat, Finish: Satin", 
+        "price": 7031, 
+        "img":"https://i.postimg.cc/vm2HPPBs/DSCF7868-480x480.webp"
+    },
+    {   "id": 4, 
+        "make":"V2 Monarch Balisong", 
+        "specs":"Pinless, channel construction, ss bushings", 
+        "price":21864 , 
+        "img":"https://i.postimg.cc/DfjdrFFj/IMG-7834.jpg"
+    },
+    {   "id": 5, 
+        "make":"Alpha Beast 3.0", 
+        "specs":"Overall Length:9.875, Blade Length:4.50, Blade Material:154CM / s35vn where indicated, Blade Style:Clip Point, Edge Type:Plain, Handle Length:5.75, Handle Material:Titanium, Weight:5.10 oz, Finish:Stonewash", 
+        "price": 7172, 
+        "img":"https://i.postimg.cc/25rZpXrL/ALPHA-BEAST-3-BRS-OPEN-2048x.webp"
+    },
+    {   "id": 6, 
+        "make":"Specter Balisong", 
+        "specs":"Blade details: S35VN / Elmax (Evo), Handles: Titanium handles 6AL4V - two tone/ Anodized with pocket clip (Evo), Titanium spacers - titanium pin latch, Precision Tuned Bushing System, Phosphor bronze washers, Overall Weight: 5.0 oz",
+        "price": 4754, 
+        "img":"https://i.postimg.cc/ncmjXtLQ/1p8ie3g1zdv81.jpg"
+    }
+]
+}
